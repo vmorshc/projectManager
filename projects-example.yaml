@@ -1,0 +1,18 @@
+projects:
+  -
+    name: project1
+    idepath: /home/user/Projects/project1/web 
+    rootpath: /home/user/Projects/project1
+    lang: python
+  -
+    name: ocr
+    idepath: /home/user/Projects/passport
+    rootpath: /home/user/Projects/passport
+    lang: python
+ides:
+  -
+    lang: python
+    path: /home/user/.local/share/JetBrains/apps/pycharm/bin/pycharm.sh
+  -
+    lang: php
+    path: /home/user/.local/share/JetBrains/apps/phpstorm/bin/phpstorm.sh
